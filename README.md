@@ -3,7 +3,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-<img src="https://github.com/Spidy20/InNews/blob/master/thumb.jpg">
 
 ## [Demo of App](https://share.streamlit.io/spidy20/innews/App.py)
 
@@ -31,5 +30,3 @@
 - To run app, write following command in CMD. or use any IDE.
   ```
   streamlit run App.py --server.port 80
-  ```
-- For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
