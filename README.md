@@ -71,7 +71,7 @@ Clone your GitHub repository containing the news application:
 
 bash--
 Copy code
-git clone https://github.com/your-username/your-repo.git
+git clone (https://github.com/jayanthsaigithub/Service-Oriented-Architecture-Project-.git)
 cd your-repo
 Edit the Streamlit configuration in your application:
 
